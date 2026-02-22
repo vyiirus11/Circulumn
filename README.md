@@ -91,7 +91,11 @@ Built with intentional focus on:
 
 <br>
 
+<center>
+
 ![clone](/Curriculum/ss/clone.png)
+</center>
+
 </li>
 
 <br>
@@ -112,7 +116,10 @@ Built with intentional focus on:
 
 <br>
 
+<center>
+
 ![live](/Curriculum/ss/live.png)
+</center>
 
 <br>
 
@@ -121,9 +128,22 @@ Built with intentional focus on:
 
 <br>
 
+<center>
+
 ![live](/Curriculum/ss/preview.png)
+</center>
+
+<br>
+
+- You should be able to see the webpage tab popup to the side
+
+<br>
+
+<center>
+
+![preview](/Curriculum/ss/preview2.png)
+</center>
 
 </br>
 
-- You should be able to see the webpage tab popup to the side
 </ol>
