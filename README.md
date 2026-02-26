@@ -4,6 +4,11 @@
 
 ---
 
+### 🌐 Live Demo:
+https://circulumn.onrender.com
+
+---
+
 ## 🏠 Homepage & Navigation
 
 Circulumn’s homepage provides three core tabs, each delivering impactful academic tools:
